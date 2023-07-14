@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shambhavits16
-- 👀 I’m interested in WEB DEVELOPEMENT AND PROBLEM SOLVING 
-- 🌱 I’m currently learning WEB DEVELOPEMENT AND MACHINE LEARNING
-- 💞️ I’m looking to collaborate on OASISINFOBYTE
+- 👀 I’m interested in WEB DEVELOPMENT AND PROBLEM-SOLVING 
+- 🌱 I’m currently learning WEB DEVELOPMENT AND MACHINE LEARNING
 - 📫 How to reach me linkedin.com/in/shambhavi-tripathi-303671211
 
 <!---
