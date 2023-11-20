@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shambhavits16@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DfKcXQ7gARoT43yj7ATzlpGr2fDWdzIK/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vG1OUMWaLL9nbJiuanQFISmq07CbeUgK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
