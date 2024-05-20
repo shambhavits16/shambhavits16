@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shambhavits16&label=Profile%20views&color=0e75b6&style=flat" alt="shambhavits16" /> </p>
 
-- 🔭 I’m currently working on **Movie-React Web App**
+- 🔭 I’m currently working on **Ellemora E-commerce Web App**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS** and **NextJS**
 
-- 💬 Ask me about **Frontend development, ReactJS, JavaScript, Machine learning**
+- 💬 Ask me about **Frontend development, ReactJS, JavaScript, TypeScript**
 
 - 📫 How to reach me **shambhavits16@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vG1OUMWaLL9nbJiuanQFISmq07CbeUgK/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SRnIu-1fg_a3e8nXgaBeAR4bftcUDT41/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
